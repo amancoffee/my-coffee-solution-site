@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coffee Solution</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header, footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 1rem 0;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .section {
+            margin: 2rem 0;
+        }
+        .section img {
+            max-width: 100%;
+            height: auto;
+        }
+        .products img {
+            width: 100px;
+            margin: 0.5rem;
+        }
+        nav {
+            background: #444;
+            padding: 0.5rem 0;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 1rem;
+        }
+        .links a {
+            display: block;
+            margin: 0.5rem 0;
+            color: #0066cc;
+        }
+        .footer-links {
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Coffee Solution</h1>
+        <p>Your Partner in the Coffee Industry</p>
+    </header>
+
+    <nav>
+        <a href="#mission">Mission</a>
+        <a href="#vision">Vision</a>
+        <a href="#products">Products</a>
+        <a href="#links">Important Links</a>
+    </nav>
+
+    <div class="container">
+        <section id="mission" class="section">
+            <h2>Mission</h2>
+            <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/0030a5b3-bf49-4f6f-a7f7-9b48bcc7b699/80e7a10e-3807-4baf-9dc2-93012ad64277/coffee_solution_pdf-01.jpg" alt="Mission">
+            <p>At Coffee Solution, our mission is to be the guiding light in the world of coffee, empowering businesses and enthusiasts alike to realize their dreams within the coffee industry. We achieve this by offering expert consulting services and a comprehensive range of top-tier tools, from roasting machines to brewing equipment. Our unwavering commitment to quality, innovation, and sustainability fuels our journey to elevate the coffee industry, one passionate brewer at a time.</p>
+        </section>
+
+        <section id="vision" class="section">
+            <h2>Vision</h2>
+            <p>Our vision at Coffee Solution is to shape the future of the coffee industry. We aspire to be the go-to partner for coffee entrepreneurs and enthusiasts worldwide, providing them with the knowledge and tools to craft exceptional coffee experiences. We envision a world where every cup brewed is a masterpiece, where sustainable practices are the norm, and where the coffee community thrives. As we reach new horizons, we remain dedicated to fostering a vibrant coffee culture and leaving a lasting positive impact on the industry we love.</p>
+        </section>
+
+        <section id="products" class="section products">
+            <h2>Products</h2>
+            <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/0030a5b3-bf49-4f6f-a7f7-9b48bcc7b699/a721223f-e867-4b3e-9e92-1f500a5df524/chemex.png" alt="Chemex">
+            <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/0030a5b3-bf49-4f6f-a7f7-9b48bcc7b699/e31d96c2-649a-45f7-ad24-82350cdf8067/travel_coffee_french_press.png" alt="Travel Coffee French Press">
+            <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/0030a5b3-bf49-4f6f-a7f7-9b48bcc7b699/4a565af3-3234-4fa0-a980-a915a489a1b5/coffee_cup.png" alt="Coffee Cup">
+            <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/0030a5b3-bf49-4f6f-a7f7-9b48bcc7b699/f872c251-063b-438c-86f5-cce4180c50b7/manual_portable_adjustable_steel_coffee_bean_grinder.png" alt="Manual Portable Adjustable Steel Coffee Bean Grinder">
+            <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/0030a5b3-bf49-4f6f-a7f7-9b48bcc7b699/c92548e7-9a50-4a33-84a8-b98e2d697bd4/Cold_brew.png" alt="Cold Brew">
+            <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/0030a5b3-bf49-4f6f-a7f7-9b48bcc7b699/ae4b2bf5-171e-496f-a714-a8e9134729b7/drip_coffee.png" alt="Drip Coffee">
+            <img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/0030a5b3-bf49-4f6f-a7f7-9b48bcc7b699/87c59f2a-3d02-4e0d-bfa3-91cdbe385e1e/porta_filter.png" alt="Porta Filter">
+        </section>
+
+        <section id="links" class="section">
+            <h2>Important Links</h2>
+            <div class="links">
+                <a href="https://www.artpressodesign.com/#BARISTA%20TOOLS">Barista Tools</a>
+                <a href="https://www.notion.so/coffee-solution-project-7be752d2745840b2a990e0d507500d14?pvs=21">Coffee Solution Project</a>
+                <a href="https://www.notion.so/marketing-b4f9980d92ee4cbf8448c67bb1bb177b?pvs=21">Marketing</a>
+                <a href="https://www.notion.so/account-663aa88ffdcd4157b064e616374226c7?pvs=21">Account</a>
+                <a href="https://www.notion.so/operation-management-c2dbff408d974e2da4100237943c2176?pvs=21">Operation Management</a>
+                <a href="https://www.notion.so/b-f9dc8510b6974528a5ca3b2025644b8a?pvs=21">b</a>
+                <a href="https://www.notion.so/Company-Profile-Coffee-Solution-Trading-a4036e26d89a4a3e8e9bd7b80b8e28d9?pvs=21">Company Profile: Coffee Solution Trading</a>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Coffee Solution. All rights reserved.</p>
+    </footer>
+</body>
+</html>
